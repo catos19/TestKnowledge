@@ -1,0 +1,7 @@
+C:\Users\maxim\source\repos\ConsoleProjectTest\ConsoleProjectTest\bin\Debug\ConsoleProjectTest.exe.config
+C:\Users\maxim\source\repos\ConsoleProjectTest\ConsoleProjectTest\bin\Debug\ConsoleProjectTest.exe
+C:\Users\maxim\source\repos\ConsoleProjectTest\ConsoleProjectTest\bin\Debug\ConsoleProjectTest.pdb
+C:\Users\maxim\source\repos\ConsoleProjectTest\ConsoleProjectTest\obj\Debug\ConsoleProjectTest.csprojAssemblyReference.cache
+C:\Users\maxim\source\repos\ConsoleProjectTest\ConsoleProjectTest\obj\Debug\ConsoleProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\ConsoleProjectTest\ConsoleProjectTest\obj\Debug\ConsoleProjectTest.exe
+C:\Users\maxim\source\repos\ConsoleProjectTest\ConsoleProjectTest\obj\Debug\ConsoleProjectTest.pdb
